@@ -1,0 +1,12 @@
+.center{
+   display: flex;
+   overflow-y: hidden;
+   overflow-x: scroll;
+   width: 80%;
+
+
+}
+.center::-webkit-scrollbar{
+   overflow: hidden;
+}
+
