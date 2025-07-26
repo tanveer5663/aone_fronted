@@ -104,7 +104,7 @@ export default function Proudctdetail() {
                 <div className="flex mt-6 items-center pb-5 border-b-2 border-gray-200 mb-5">
                   {product?.category === "mob" ||
                   product?.category === "ele" ||
-                  product.category === "fash" ? (
+                  product?.category === "fash" ? (
                     <div className="flex">
                       <span className="mr-3">Color</span>
                       <button className="border-2 border-gray-300 rounded-full w-6 h-6 focus:outline-none"></button>
@@ -147,8 +147,8 @@ export default function Proudctdetail() {
 
                 <div className="flex">
                   <span className="title-font font-medium text-2xl text-gray-900">
-                    Rs. {product.price}{" "}
-                    {product.category === "fru" || product.category === "veg"
+                    Rs. {product?.price}{" "}
+                    {product?.category === "fru" || product?.category === "veg"
                       ? "/Kg"
                       : ""}
                   </span>

@@ -1,0 +1,723 @@
+[
+  {
+    "id": "08ddcc15-2fc0-4780-8c43-f5ad8d557b6c",
+    "title": "Chana Dal",
+    "price": 60,
+    "category": "groc",
+    "image": "https://rukminim2.flixcart.com/image/280/280/kelptow0/pulses/r/y/m/1-chana-dal-chana-dal-desi-choice-original-imafv8v5hqurgazw.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966718",
+    "updatedAt": "2025-07-26T07:22:30.966879"
+  },
+  {
+    "id": "08ddcc15-2fd4-4f46-8a9d-95db3a080649",
+    "title": "Red Masoor",
+    "price": 42,
+    "category": "groc",
+    "image": "https://rukminim2.flixcart.com/image/280/280/kixgtjk0/pulses/a/f/c/1-masoor-malka-split-masoor-dal-organic-tattva-original-imafym92z9h9fcjs.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966985",
+    "updatedAt": "2025-07-26T07:22:30.966985"
+  },
+  {
+    "id": "08ddcc15-2fd5-4136-803d-594745c83dd4",
+    "title": "Ashirwad Atta",
+    "price": 299,
+    "category": "groc",
+    "image": "https://rukminim2.flixcart.com/image/280/280/krayqa80/flour/e/l/r/5-atta-with-multigrains-5-kg-1-multigrain-flour-aashirvaad-original-imag54nfyrkghzg9.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966985",
+    "updatedAt": "2025-07-26T07:22:30.966986"
+  },
+  {
+    "id": "08ddcc15-2fd5-415e-8f21-7377196f3082",
+    "title": "karare",
+    "price": 15,
+    "category": "bev",
+    "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/chips/7/3/v/-original-imagrf8j7haqk7ef.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966986",
+    "updatedAt": "2025-07-26T07:22:30.966986"
+  },
+  {
+    "id": "08ddcc15-2fd5-41b6-8a26-f3422ea335e7",
+    "title": "Thumsup",
+    "price": 35,
+    "category": "bev",
+    "image": "https://rukminim2.flixcart.com/image/280/280/l3dcl8w0/aerated-drink/a/m/i/-original-imageg4mqpdtxues.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966986",
+    "updatedAt": "2025-07-26T07:22:30.966986"
+  },
+  {
+    "id": "08ddcc15-2fd5-41c8-83ab-5a898c23fbfc",
+    "title": "Frooti",
+    "price": 50,
+    "category": "bev",
+    "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/drinks-juice/h/2/j/-original-imagthn3qb6m5qw8.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966986",
+    "updatedAt": "2025-07-26T07:22:30.966987"
+  },
+  {
+    "id": "08ddcc15-2fd5-41d5-8f2e-cf504b39eb1e",
+    "title": "Sting",
+    "price": 19,
+    "category": "bev",
+    "image": "https://rukminim2.flixcart.com/image/280/280/jwqpocw0/energy-sport-drink-mix/n/b/a/250-na-sting-original-imafhcqqkupjyhxn.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966987",
+    "updatedAt": "2025-07-26T07:22:30.966987"
+  },
+  {
+    "id": "08ddcc15-2fd5-41f1-8042-e88e25d436db",
+    "title": "Black Raisins",
+    "price": 599,
+    "category": "groc",
+    "image": "https://rukminim2.flixcart.com/image/280/280/kwv0djk0/nut-dry-fruit/d/d/x/-original-imag9fusf9snnbfj.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966987",
+    "updatedAt": "2025-07-26T07:22:30.966987"
+  },
+  {
+    "id": "08ddcc15-2fd5-4203-8aeb-5dad66061b19",
+    "title": "Almonds",
+    "price": 899,
+    "category": "groc",
+    "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/nut-dry-fruit/m/0/b/500-popular-california-1-pouch-farmley-original-imagvy272uh8fkt2.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966987",
+    "updatedAt": "2025-07-26T07:22:30.966987"
+  },
+  {
+    "id": "08ddcc15-2fd5-4210-8d0e-774347859824",
+    "title": "Afgani Anjeer",
+    "price": 999,
+    "category": "groc",
+    "image": "https://rukminim2.flixcart.com/image/280/280/kwv0djk0/nut-dry-fruit/9/n/y/-original-imag9fuswm9ghmzr.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966987",
+    "updatedAt": "2025-07-26T07:22:30.966987"
+  },
+  {
+    "id": "08ddcc15-2fd5-421c-8f85-7361884edd67",
+    "title": "Gulcon D",
+    "price": 89,
+    "category": "bev",
+    "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/energy-sport-drink-mix/v/g/z/-original-imagsf6efvtdvmmz.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966987",
+    "updatedAt": "2025-07-26T07:22:30.966988"
+  },
+  {
+    "id": "08ddcc15-2fd5-422a-8675-6ece21d33516",
+    "title": "Hell Energy Drink",
+    "price": 99,
+    "category": "bev",
+    "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/aerated-drink/y/1/k/250-drink-classic-tin-1-hell-energy-original-imagtagxvhgksh4h.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966988",
+    "updatedAt": "2025-07-26T07:22:30.966988"
+  },
+  {
+    "id": "08ddcc15-2fd5-4235-8d23-1e14e3ca4202",
+    "title": "Fanta",
+    "price": 39,
+    "category": "bev",
+    "image": "https://rukminim2.flixcart.com/image/280/280/l186t8w0/aerated-drink/z/r/i/-original-imagcuhguqgjzkku.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966988",
+    "updatedAt": "2025-07-26T07:22:30.966988"
+  },
+  {
+    "id": "08ddcc15-2fd5-4242-8ae9-d2e2266031b6",
+    "title": "Kinley Soda",
+    "price": 39,
+    "category": "bev",
+    "image": "https://rukminim2.flixcart.com/image/280/280/jqzitu80/aerated-drink/e/d/g/750-soda-extra-punch-plastic-bottle-kinley-original-imafcvvq3gqyzxrf.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966988",
+    "updatedAt": "2025-07-26T07:22:30.966989"
+  },
+  {
+    "id": "08ddcc15-2fd5-424d-88d3-d7ccb1e551b6",
+    "title": "Woolen T-Shirt",
+    "price": 499,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/z/0/k/l-all-rbcpon-sky-one-nb-nicky-boy-original-imagrdhcgyk7papf.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966989",
+    "updatedAt": "2025-07-26T07:22:30.966989"
+  },
+  {
+    "id": "08ddcc15-2fd5-425f-8553-8934db685deb",
+    "title": "T-shirt",
+    "price": 125,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/t/s/l-ts13-vebnor-original-imagz7h8zxqgeuhh.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966989",
+    "updatedAt": "2025-07-26T07:22:30.966989"
+  },
+  {
+    "id": "08ddcc15-2fd5-426e-8552-9497097d9499",
+    "title": "Red Half-sleve",
+    "price": 120,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/k/o/k/-original-imags9mpesvdcgxu.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.96699",
+    "updatedAt": "2025-07-26T07:22:30.96699"
+  },
+  {
+    "id": "08ddcc15-2fd5-4279-8eb5-d9ab88c356dd",
+    "title": "Lower with T-Shirt",
+    "price": 799,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/krjjde80/t-shirt/7/2/g/l-710-9-ftx-original-imag5b2k5wrnp6kn.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.96699",
+    "updatedAt": "2025-07-26T07:22:30.96699"
+  },
+  {
+    "id": "08ddcc15-2fd5-4287-82bf-62bb5359b99d",
+    "title": "Dress 5year old",
+    "price": 899,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kbjox3k0/kids-dress/s/u/n/7-8-years-dress-ftc-fashions-original-imafsv7ghymvpgsp.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.96699",
+    "updatedAt": "2025-07-26T07:22:30.966991"
+  },
+  {
+    "id": "08ddcc15-2fd5-4295-8655-6f95156a2d62",
+    "title": "Baby dress",
+    "price": 799,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kuzuoi80/kids-dress/t/2/m/6-7-years-new-blackjali-ftc-fashions-original-imag7zghqg4vgbd7.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966991",
+    "updatedAt": "2025-07-26T07:22:30.966991"
+  },
+  {
+    "id": "08ddcc15-2fd5-42a1-80f9-600bd9501db7",
+    "title": "Orange Lengha",
+    "price": 199,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/l/s/o/9-10-years-pink-grown-10-unickfashion-original-imaggzh2bu6qh4vx.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966991",
+    "updatedAt": "2025-07-26T07:22:30.966991"
+  },
+  {
+    "id": "08ddcc15-2fd5-42ac-800c-481cd612913b",
+    "title": "Dollar Thermal",
+    "price": 199,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/thermal/j/c/s/xl-2-mumf-001-dollar-ultra-original-imaguhcd9kkphn3g.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966991",
+    "updatedAt": "2025-07-26T07:22:30.966991"
+  },
+  {
+    "id": "08ddcc15-2fd5-42ca-82dc-b21d62235e27",
+    "title": "Full Sekeve hoodi",
+    "price": 999,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sweatshirt/z/k/j/5-6-years-sh-tl-k-hd-p1-04-mrn-triangletees-boys-girls-original-imagvzaheczayfzt.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966992",
+    "updatedAt": "2025-07-26T07:22:30.966992"
+  },
+  {
+    "id": "08ddcc15-2fd5-42d6-8bdc-236995862f50",
+    "title": "Kid Full Sekeve ",
+    "price": 999,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/g/0/f/5-6-years-tl-k-hd-p1-03-ylw-triangletees-original-imagvza9ghyzzrcx.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966992",
+    "updatedAt": "2025-07-26T07:22:30.966992"
+  },
+  {
+    "id": "08ddcc15-2fd5-42e4-8792-80e71067b022",
+    "title": "XL Shirt",
+    "price": 999,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/b/d/f/3xl-13-lstr-wine-vtexx-original-imagnzbummhkgr7p.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966992",
+    "updatedAt": "2025-07-26T07:22:30.966992"
+  },
+  {
+    "id": "08ddcc15-2fd5-42f1-89ff-ef1c076effcd",
+    "title": "Men Regular Shirt",
+    "price": 799,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/w/m/0/s-dt-shirt1335-darkage-original-imaggvuyycyecqhh.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966992",
+    "updatedAt": "2025-07-26T07:22:30.966992"
+  },
+  {
+    "id": "08ddcc15-2fd5-42fc-86bb-701555cf35d8",
+    "title": "Men plain Shirt",
+    "price": 799,
+    "category": "fash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/k/v/h/xxl-visarg-plain-shirt-visargfashion-original-imagmj996gyf8sz2.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966992",
+    "updatedAt": "2025-07-26T07:22:30.966992"
+  },
+  {
+    "id": "08ddcc15-2fd5-4321-8a50-a1c66c76746f",
+    "title": "Black Grapes",
+    "price": 120,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/krxtrww0/fruit/6/b/m/500-un-branded-whole-original-imag5m3spp45hdhv.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966993",
+    "updatedAt": "2025-07-26T07:22:30.966993"
+  },
+  {
+    "id": "08ddcc15-2fd5-432e-8c56-b485603e2206",
+    "title": "Grapes",
+    "price": 99,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kc3p30w0/fruit/n/f/v/500-un-branded-whole-original-imaftat7kzhgzmt5.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966993",
+    "updatedAt": "2025-07-26T07:22:30.966993"
+  },
+  {
+    "id": "08ddcc15-2fd5-433c-8352-4ab39a1200b1",
+    "title": "Onion",
+    "price": 79,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/jtsz3bk0/vegetable/k/y/d/5-onion-un-branded-no-whole-original-imafdsyg4ykqcyt4.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966993",
+    "updatedAt": "2025-07-26T07:22:30.966993"
+  },
+  {
+    "id": "08ddcc15-2fd5-434a-8974-007dfd7a29d0",
+    "title": "Carrot",
+    "price": 52,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/juk4gi80/vegetable/u/a/m/500-carrot-un-branded-no-whole-original-imaffns64ghsr4va.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966993",
+    "updatedAt": "2025-07-26T07:22:30.966994"
+  },
+  {
+    "id": "08ddcc15-2fd5-435d-8cf5-f576f5043a04",
+    "title": "Black Apple",
+    "price": 125,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/ked56kw0/fruit/c/2/r/250-un-branded-whole-original-imafv2ftnfzatqz7.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966994",
+    "updatedAt": "2025-07-26T07:22:30.966994"
+  },
+  {
+    "id": "08ddcc15-2fd5-436a-81a3-6b564e04c3f1",
+    "title": "Pineapple",
+    "price": 129,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/jl5h3m80/fruit/a/4/v/1-un-branded-whole-original-imaf8cjsnkvze7nx.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966994",
+    "updatedAt": "2025-07-26T07:22:30.966994"
+  },
+  {
+    "id": "08ddcc15-2fd5-4378-8266-f0fa76a54531",
+    "title": "Tomato",
+    "price": 36,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kerfl3k0/vegetable/g/f/a/1-tomato-hybrid-un-branded-no-whole-original-imafvdehrkffhnzt.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966994",
+    "updatedAt": "2025-07-26T07:22:30.966994"
+  },
+  {
+    "id": "08ddcc15-2fd5-4383-8985-486b45489cc4",
+    "title": "Capsicum Green",
+    "price": 25,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/js4yljk0/vegetable/x/z/b/500-capsicum-green-un-branded-no-whole-original-imafdsyqecsbuvzh.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966994",
+    "updatedAt": "2025-07-26T07:22:30.966994"
+  },
+  {
+    "id": "08ddcc15-2fd5-438f-89ef-7cf264af7790",
+    "title": "Papaya",
+    "price": 50,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/ked56kw0/fruit/k/g/t/1-un-branded-whole-original-imafv2ft2ngzhhpg.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966995",
+    "updatedAt": "2025-07-26T07:22:30.966995"
+  },
+  {
+    "id": "08ddcc15-2fd5-439c-8c35-98b920fe04be",
+    "title": "Water Melon",
+    "price": 70,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/jl5h3m80/fruit/q/g/g/1-un-branded-whole-original-imaf8cjstsazbh7g.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966995",
+    "updatedAt": "2025-07-26T07:22:30.966995"
+  },
+  {
+    "id": "08ddcc15-2fd5-43a8-8717-48759be2996e",
+    "title": "Apple",
+    "price": 90,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/jtsz3bk0/fruit/3/7/w/6-un-branded-whole-original-imafdsfxcufxeurw.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966995",
+    "updatedAt": "2025-07-26T07:22:30.966996"
+  },
+  {
+    "id": "08ddcc15-2fd5-43be-814f-bc89b366bbe0",
+    "title": "Cabbage",
+    "price": 45,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/js4yljk0/vegetable/v/y/x/1-cabbage-un-branded-no-whole-original-imafdsykgqcsgvhc.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966996",
+    "updatedAt": "2025-07-26T07:22:30.966996"
+  },
+  {
+    "id": "08ddcc15-2fd5-43c9-8fce-d592de9b4619",
+    "title": "Toamta",
+    "price": 5,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kr58yvk0/vegetable/b/k/n/1-tomato-local-red-un-branded-no-whole-original-imag5y68d3uxjyza.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966996",
+    "updatedAt": "2025-07-26T07:22:30.966996"
+  },
+  {
+    "id": "08ddcc15-2fd5-43d9-841c-9659cdc379cb",
+    "title": "Ladies-finger",
+    "price": 55,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/ked56kw0/vegetable/7/e/c/250-ladies-finger-un-branded-no-whole-original-imafv2ftstpp8e4e.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966996",
+    "updatedAt": "2025-07-26T07:22:30.966996"
+  },
+  {
+    "id": "08ddcc15-2fd5-43e5-802d-936b2ec4aa97",
+    "title": "Guavava",
+    "price": 39,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/ked56kw0/fruit/y/h/s/500-un-branded-whole-original-imafv2fthhvhvhgr.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966996",
+    "updatedAt": "2025-07-26T07:22:30.966996"
+  },
+  {
+    "id": "08ddcc15-2fd5-43f0-83c8-b8f0f1c6d351",
+    "title": "Banana",
+    "price": 45,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/fruit/i/r/r/-original-imag75p2f9gcqg2u.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966997",
+    "updatedAt": "2025-07-26T07:22:30.966997"
+  },
+  {
+    "id": "08ddcc15-2fd5-4402-8ecf-626396ef1c23",
+    "title": "Strawery",
+    "price": 99,
+    "category": "fru",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kc3p30w0/fruit/k/b/g/200-un-branded-whole-original-imafgfmhzhrkgzm2.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966997",
+    "updatedAt": "2025-07-26T07:22:30.966997"
+  },
+  {
+    "id": "08ddcc15-2fd5-440e-8e17-e9457b97f967",
+    "title": "Potato",
+    "price": 15,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/jtsz3bk0/vegetable/b/8/4/2-potato-un-branded-no-whole-original-imafdsymh2aepaph.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966997",
+    "updatedAt": "2025-07-26T07:22:30.966997"
+  },
+  {
+    "id": "08ddcc15-2fd5-441a-8117-17fd2b7e3a75",
+    "title": " Beetroot",
+    "price": 65,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kp1imq80/vegetable/m/o/y/beetroot-un-branded-whole-no-original-imag3d7jhfudrmjn.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966997",
+    "updatedAt": "2025-07-26T07:22:30.966997"
+  },
+  {
+    "id": "08ddcc15-2fd5-4425-82c4-a80704107178",
+    "title": "Amla",
+    "price": 90,
+    "category": "veg",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kthjy4w0/vegetable/e/p/p/500-amla-unbranded-no-whole-original-imag6tnjxhkgnpan.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966997",
+    "updatedAt": "2025-07-26T07:22:30.966998"
+  },
+  {
+    "id": "08ddcc15-2fd5-4433-8b90-d7d0bab58a64",
+    "title": "Iphone 13",
+    "price": 54000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/2/y/o/iphone-13-mlpk3hn-a-apple-original-imag6vpyur6hjngg.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966998",
+    "updatedAt": "2025-07-26T07:22:30.966998"
+  },
+  {
+    "id": "08ddcc15-2fd5-443e-8e58-d4e6a3e3ccf4",
+    "title": "Realme 11Pro 5G",
+    "price": 26000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/8/d/-original-imagqadpnygfnn2v.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966998",
+    "updatedAt": "2025-07-26T07:22:30.966998"
+  },
+  {
+    "id": "08ddcc15-2fd5-444a-85aa-47e9dd338344",
+    "title": "Samsung Galaxy S22",
+    "price": 79000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/r/x/-original-imagth5xf4shxcuv.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966998",
+    "updatedAt": "2025-07-26T07:22:30.966999"
+  },
+  {
+    "id": "08ddcc15-2fd5-445b-8929-6a53bcfd43a9",
+    "title": "Mivi Airpords",
+    "price": 500,
+    "category": "ele",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/p/m/-original-imagrvmgmhdk6msy.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966999",
+    "updatedAt": "2025-07-26T07:22:30.966999"
+  },
+  {
+    "id": "08ddcc15-2fd5-4471-8a75-daab04673685",
+    "title": "Boat Airpords",
+    "price": 1200,
+    "category": "ele",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/y/c/-original-imagrkek2hhfjr7z.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966999",
+    "updatedAt": "2025-07-26T07:22:30.966999"
+  },
+  {
+    "id": "08ddcc15-2fd5-447d-80b9-66dc4ca78b0a",
+    "title": "Asus Tuf Gaming",
+    "price": 70000,
+    "category": "ele",
+    "image": "https://rukminim2.flixcart.com/image/312/312/l3rmzrk0/computer/z/2/c/-original-imagetjyhhtrtkdg.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966999",
+    "updatedAt": "2025-07-26T07:22:30.966999"
+  },
+  {
+    "id": "08ddcc15-2fd5-448e-87af-df5c89003b95",
+    "title": "Asus Vivobook",
+    "price": 17999,
+    "category": "ele",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/d/k/k/-original-imagqkqnb2fpbhyb.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.966999",
+    "updatedAt": "2025-07-26T07:22:30.967"
+  },
+  {
+    "id": "08ddcc15-2fd5-449a-8a89-d7e34695ae04",
+    "title": "Boat Soundbar",
+    "price": 20000,
+    "category": "ele",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kiqbma80-0/speaker/soundbar/l/l/o/aavante-bar-3100d-boat-original-imafygcgjbcerj7f.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967",
+    "updatedAt": "2025-07-26T07:22:30.967"
+  },
+  {
+    "id": "08ddcc15-2fd5-44a6-8467-137e1303eb98",
+    "title": "Motorola Soundbar",
+    "price": 22000,
+    "category": "ele",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kziqvm80/speaker/home-theatre/4/y/o/mt120-ht41-motorola-original-imagbgec77dd8atv.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967",
+    "updatedAt": "2025-07-26T07:22:30.967"
+  },
+  {
+    "id": "08ddcc15-2fd5-44b1-8281-61c38003a69a",
+    "title": "Oppo A78",
+    "price": 9000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/s/q/-original-imags7tjfcmdzzvb.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967",
+    "updatedAt": "2025-07-26T07:22:30.967"
+  },
+  {
+    "id": "08ddcc15-2fd5-44bc-805e-2d13b8eb492b",
+    "title": "Oppo A79 5G",
+    "price": 26000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/9/b/-original-imagupg4ugbtjx8g.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967",
+    "updatedAt": "2025-07-26T07:22:30.967001"
+  },
+  {
+    "id": "08ddcc15-2fd5-44c6-8f62-c537483d35bb",
+    "title": "Oppo Flip Phone",
+    "price": 29000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/4/i/-original-imagu8h9snemswmc.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967001",
+    "updatedAt": "2025-07-26T07:22:30.967001"
+  },
+  {
+    "id": "08ddcc15-2fd5-44d1-8d9d-439b83ee9687",
+    "title": "Honor 90 5G",
+    "price": 27000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/t/f/90-emerald-green-12gb-512gb-rea-nx9-honor-original-imagtsdduza9rb5h.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967001",
+    "updatedAt": "2025-07-26T07:22:30.967001"
+  },
+  {
+    "id": "08ddcc15-2fd5-44dc-8830-710c9aa0fdc9",
+    "title": "Honor 9N",
+    "price": 7000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/jpvihzk0/mobile/x/b/g/honor-9n-lld-al20-original-imafcysuxztcr4gz.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967001",
+    "updatedAt": "2025-07-26T07:22:30.967001"
+  },
+  {
+    "id": "08ddcc15-2fd5-44e7-83a5-21b5482da6a7",
+    "title": "Honor H10",
+    "price": 7000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/jqv8ia80/mobile/c/2/6/honor-h10-lite-na-original-imafcskm8qygbqpd.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967001",
+    "updatedAt": "2025-07-26T07:22:30.967001"
+  },
+  {
+    "id": "08ddcc15-2fd5-44f8-8504-9ab1810eeaa7",
+    "title": "Infinix hot 30i",
+    "price": 10000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/w/x/hot-30i-x669c-infinix-original-imagzyfawjmmcgpg.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967002",
+    "updatedAt": "2025-07-26T07:22:30.967002"
+  },
+  {
+    "id": "08ddcc15-2fd5-4504-8f7a-b66299ea9527",
+    "title": "Infinix hot 30",
+    "price": 20000,
+    "category": "mob",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/j/b/-original-imagrgp2dbb77av2.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967002",
+    "updatedAt": "2025-07-26T07:22:30.967002"
+  },
+  {
+    "id": "08ddcc15-2fd5-4510-829f-4d5c58439822",
+
+    "title": "Vu 32inch",
+    "price": 27000,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/q/z/k/-original-imagupmkh4cubzex.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967002",
+    "updatedAt": "2025-07-26T07:22:30.967002"
+  },
+  {
+    "id": "08ddcc15-2fd5-451b-88fb-93ea27597f60",
+    "title": "Mi 45inch",
+    "price": 32000,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/3/g/g/-original-imagu7f3g7s5jdfs.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967002",
+    "updatedAt": "2025-07-26T07:22:30.967002"
+  },
+  {
+    "id": "08ddcc15-2fd5-4526-86d6-7dc9b91192df",
+    "title": "Top load WashingMachine",
+    "price": 15000,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/y/4/l/-original-imagt2q2ux7rgttt.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967003",
+    "updatedAt": "2025-07-26T07:22:30.967003"
+  },
+  {
+    "id": "08ddcc15-2fd5-4531-81bb-b8efbcb3cbad",
+    "title": "Washing Machine",
+    "price": 5000,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/q/h/c/-original-imags7pfmzfeeag6.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967003",
+    "updatedAt": "2025-07-26T07:22:30.967003"
+  },
+  {
+    "id": "08ddcc15-2fd5-453b-8baf-fe8ba5f44d7b",
+    "title": "Samsung",
+    "price": 4999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/g/9/k/-original-imagvc2rra6gr95f.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967003",
+    "updatedAt": "2025-07-26T07:22:30.967003"
+  },
+  {
+    "id": "08ddcc15-2fd5-4546-8a11-4decdf832523",
+    "title": "Lg Monitor",
+    "price": 3999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/monitor/e/i/f/-original-imagpu2tmee2jvds.jpeg?q=90",
+    "createdAt": "2025-07-26T07:22:30.967003",
+    "updatedAt": "2025-07-26T07:22:30.967003"
+  },
+  {
+    "id": "08ddcc15-2fd5-4551-8ab5-9768aa5d75b1",
+    "title": "Asus Gaming Monitor",
+    "price": 6999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/fk-p-flap/400/400/image/e27728ad8e47967d.jpg?q=50",
+    "createdAt": "2025-07-26T07:22:30.967003",
+    "updatedAt": "2025-07-26T07:22:30.967003"
+  },
+  {
+    "id": "08ddcc15-2fd5-455c-8312-8e62766c143d",
+    "title": "Marq Gaming Monitor",
+    "price": 8999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/g/1/e/24-inch-gaming-monitor-full-hd-24-24fhdmiqii2g-marq-by-flipkart-original-imagp8tet9w4v3br.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967004",
+    "updatedAt": "2025-07-26T07:22:30.967004"
+  },
+  {
+    "id": "08ddcc15-2fd5-456d-81cf-95b77803ce5f",
+    "title": "Godrej 180L",
+    "price": 7999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/g/3/m/-original-imagtmpef7zsfwgy.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967004",
+    "updatedAt": "2025-07-26T07:22:30.967004"
+  },
+  {
+    "id": "08ddcc15-2fd5-4581-898c-f8de5b34250c",
+    "title": "Lg 180L",
+    "price": 8999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/v/b/i/-original-imagtybwkyumhdrr.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967004",
+    "updatedAt": "2025-07-26T07:22:30.967004"
+  },
+  {
+    "id": "08ddcc15-2fd5-458e-8a4e-3c463be9995c",
+    "title": "Bosch 380L",
+    "price": 35999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/m/f/j/ctc39s03ni-187-3-2022-72-6-bosch-67-8-67-original-imagts2kyzezuhpp.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967004",
+    "updatedAt": "2025-07-26T07:22:30.967004"
+  },
+  {
+    "id": "08ddcc15-2fd5-4599-8d32-346eb0658d4c",
+    "title": "DQ Monitor",
+    "price": 7999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/l3t2fm80/monitor/m/e/j/-original-imageudynqghyhxh.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967004",
+    "updatedAt": "2025-07-26T07:22:30.967005"
+  },
+  {
+    "id": "08ddcc15-2fd5-45a4-8b38-9eeca44340ad",
+    "title": "Samsung Monitor",
+    "price": 7999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/j/q/e/-original-imagtdphdh2jcfqy.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967005",
+    "updatedAt": "2025-07-26T07:22:30.967005"
+  },
+  {
+    "id": "08ddcc15-2fd5-45af-87c9-6f7140aa398f",
+    "title": "Msi Gaming Monitor",
+    "price": 7999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/e/j/5/pro-mp243-full-hd-23-8-mp243-msi-original-imaghsfvcehzdphy.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967005",
+    "updatedAt": "2025-07-26T07:22:30.967005"
+  },
+  {
+    "id": "08ddcc15-2fd5-45ba-8029-bdc00dc3d206",
+    "title": "Lg washing Machine",
+    "price": 3999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/l/j/x/-original-imagt9egzzxtq8gy.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967005",
+    "updatedAt": "2025-07-26T07:22:30.967005"
+  },
+  {
+    "id": "08ddcc15-2fd5-45c4-88d6-f68cf5fac8c6",
+    "title": "Godrej Washing Machine",
+    "price": 8999,
+    "category": "app",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/b/c/g/-original-imagvrbhcwuwz7j7.jpeg?q=70",
+    "createdAt": "2025-07-26T07:22:30.967005",
+    "updatedAt": "2025-07-26T07:22:30.967005"
+  }
+]
