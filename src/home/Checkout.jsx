@@ -554,7 +554,7 @@ export default function Checkout() {
           </div>
         </div>
       </div>
-      <Footer />
+    
       {open ? (
         <Modal data={id} setOpen1={setOpen1} title={title} orders={orders} />
       ) : (

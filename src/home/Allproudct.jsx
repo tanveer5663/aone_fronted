@@ -310,7 +310,7 @@ export default function Allproudct({ id, kg, name }) {
         </div>
       </div>
 
-      <Footer />
+     
     </>
   );
 }

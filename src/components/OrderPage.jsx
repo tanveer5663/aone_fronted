@@ -136,7 +136,7 @@ export default function OrderPage() {
             </div>
           ))}
         </div>
-        <Footer />
+    
       </div>
     </>
   );

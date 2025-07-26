@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:5082/api/";
+const baseUrl = "/api/";
 const apiEndpoints = {
   login: `${baseUrl}user/login`,
   signup: `${baseUrl}user/register`,

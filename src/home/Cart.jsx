@@ -197,7 +197,7 @@ export default function Cart() {
             </div>
           </div>
         </div>
-        <Footer />
+       
       </div>
       {open ? <Modal data={id} setOpen1={setOpen1} title={title} /> : ""}
     </>
